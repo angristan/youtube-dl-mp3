@@ -1,5 +1,5 @@
 # youtube-dl-mp3
-Simply convert a Youtube video into a .mp3 audio file.
+Simply convert a Youtube video into a .mp3 320kb/s audio file.
 
 ## Installation
 
