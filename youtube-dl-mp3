@@ -1,0 +1,7 @@
+url=$1
+random=$RANDOM
+title=`youtube-dl $url --get-title`
+filename=`youtube-dl $url --get-filename`
+youtube-dl $url
+avconv -i "$filename" -b:a 320K -vn "$title.mp3"
+rm "$filename"
