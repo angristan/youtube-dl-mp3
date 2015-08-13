@@ -27,9 +27,9 @@ Exemple :
 
 `youtube-dl-mp3 "https://www.youtube.com/watch?v=lsui2eBYfdc"`
 
-## Contact
+## Contact / Feedback
 
-http://angristan.fr/contact/
+http://angristan.fr/contact/ or open an [issue](https://github.com/Angristan/youtube-dl-mp3/issues).
 
 ## Licence
 
