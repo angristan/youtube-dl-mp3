@@ -1,6 +1,5 @@
 #!/bin/bash
 url=$1
-random=$RANDOM
 title=`youtube-dl $url --get-title`
 filename=`youtube-dl $url --get-filename`
 youtube-dl $url
