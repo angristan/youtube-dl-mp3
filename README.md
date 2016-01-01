@@ -30,4 +30,4 @@ Exemple :
 
 ## Licence
 
-[The unlicense](https://github.com/Angristan/youtube-dl-mp3/blob/master/LICENSE) : Do whatever you want with the code.
+[The unlicense](https://github.com/Angristan/youtube-dl-mp3/blob/master/LICENSE) : do whatever you want with the code.
